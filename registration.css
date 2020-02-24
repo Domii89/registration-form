@@ -1,0 +1,21 @@
+h1 {
+    font-family: Lato;
+    font-weight: 900;
+    letter-spacing: 0.15em;
+    background: -webkit-linear-gradient(black, #4a78c2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+div {
+    font-family: Lato;
+    font-size: 17px;
+    letter-spacing: 0.02em;
+    line-height: 1.8;
+    color: black;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(to right, #4a78c2, #C4E5EA);
+}
